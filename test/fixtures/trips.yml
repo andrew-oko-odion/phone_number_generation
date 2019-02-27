@@ -1,0 +1,27 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  uuid: 1
+  departure: MyString
+  destination: MyString
+  seat_no: 1
+  ticket_code: MyString
+  type: 1
+  boarding_date: 2019-02-08
+  returning_date: 2019-02-08
+  cancel_ticket: false
+  postprone_trip: 2019-02-08
+  ticket_fee: 9.99
+
+two:
+  uuid: 1
+  departure: MyString
+  destination: MyString
+  seat_no: 1
+  ticket_code: MyString
+  type: 1
+  boarding_date: 2019-02-08
+  returning_date: 2019-02-08
+  cancel_ticket: false
+  postprone_trip: 2019-02-08
+  ticket_fee: 9.99
